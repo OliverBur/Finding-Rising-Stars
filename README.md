@@ -1,2 +1,2 @@
 # Finding-Rising-Stars
-Finding the next researchers stars from a database with their stats in different areas.
+In this project, the next research stars were sought from a database with their statistics in different areas.
